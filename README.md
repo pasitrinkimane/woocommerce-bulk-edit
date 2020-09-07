@@ -1,0 +1,1 @@
+#woocommerce-bulk-edit - 1.0.0
